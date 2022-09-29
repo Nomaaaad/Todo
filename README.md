@@ -1,4 +1,5 @@
 # todo
+Just a simple Todo app made on Vue and Firebase
 
 ## Project setup
 ```
